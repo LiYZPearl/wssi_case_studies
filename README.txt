@@ -1,4 +1,4 @@
-For detailed of the case stuides, please refer to
+For detail of the case studies, please refer to
 
 @article{li2019numerical,
   title={A numerical toolbox for wave-induced seabed response analysis around marine structures in the OpenFOAM{\textregistered} framework},
